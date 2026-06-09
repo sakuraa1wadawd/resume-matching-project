@@ -1,0 +1,11 @@
+job_id,job_title,company,required_education,required_skills,min_experience_years,city,salary,preferred_certificates,job_description
+J001,数据分析实习生,江西云数科技,本科,Python;SQL;Excel;数据分析;可视化,0,南昌,6000,英语四级,负责业务数据清洗统计分析和报表制作协助搭建指标看板
+J002,大数据开发实习生,华东智算中心,本科,Python;Spark;Hadoop;Hive;SQL;Linux,0,杭州,8500,英语四级,参与离线数仓开发使用 Spark 和 Hive 完成日志数据处理
+J003,机器学习算法助理,杭城智能科技,硕士,Python;机器学习;深度学习;数据挖掘;Pandas,1,杭州,12000,英语六级,负责特征工程模型训练评估和实验记录支持推荐算法优化
+J004,Java 后端开发工程师,鹏城软件,大专,Java;SpringBoot;MySQL;Redis;Linux,1,深圳,9000,计算机二级,负责业务系统后端接口开发数据库设计和性能优化
+J005,数据产品运营实习生,赣江互联网,本科,SQL;Excel;产品分析;用户研究;数据分析,0,南昌,5500,英语四级,分析用户行为数据输出运营策略协助产品需求评估
+J006,数据采集与清洗工程师,岭南数据服务,本科,Python;爬虫;数据清洗;SQL;Linux,1,广州,7500,英语四级,负责网页数据采集字段清洗和数据质量检查
+J007,BI 可视化分析师,星海零售集团,本科,SQL;Tableau;Excel;统计分析;可视化,0,上海,8000,英语四级,建设经营分析看板完成销售库存和客户数据分析
+J008,NLP 算法实习生,京北 AI 实验室,硕士,Python;NLP;深度学习;PyTorch;文本分类,1,北京,13000,英语六级,负责中文文本分类实体识别和语义匹配实验
+J009,数据仓库开发实习生,湘江云计算,本科,Hive;Spark;Hadoop;SQL;数据仓库;Linux,0,长沙,7800,英语四级,参与 ODS DWD DWS 数据分层建模和调度脚本开发
+J010,商业数据分析师,南昌智选咨询,本科,Python;SQL;统计分析;数据分析;可视化,1,南昌,7000,英语四级,负责业务专题分析指标体系设计和结论汇报

@@ -1,0 +1,19 @@
+{
+  "py": "python",
+  "python语言": "python",
+  "python3": "python",
+  "pyspark": "spark",
+  "sparksql": "spark",
+  "spark sql": "spark",
+  "hadoop生态": "hadoop",
+  "结构化查询语言": "sql",
+  "mysql": "mysql",
+  "数据可视化": "可视化",
+  "tableau": "tableau",
+  "机器学习算法": "机器学习",
+  "深度神经网络": "深度学习",
+  "自然语言处理": "nlp",
+  "文本挖掘": "nlp",
+  "爬虫开发": "爬虫",
+  "spring boot": "springboot"
+}
