@@ -1,5 +1,5 @@
-pandas
-jieba
-scikit-learn
-gensim
-streamlit
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+jieba==0.42.1
+scikit-learn==1.5.1
